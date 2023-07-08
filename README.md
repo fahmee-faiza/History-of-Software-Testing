@@ -1,4 +1,5 @@
 ## History of Software Testing
 
+# Bugs
 Let me share a very interesting story about “bugs”. Do you know why we call flaws in software “bugs”? This term “bug” was originally used by Thomas Alva Edison in the year 1878, while mentioning it in a letter sent to his partner about his machine, the quadruplex telegraph system, he described the flaws as “bugs”.
 But it became popular and used worldwide when in 1947, Grace Murray, a Harvard university scientist working on the Mark II computer, noticed a moth stuck in the relay of the computer, which prevented it from functioning properly. The moth was removed slowly and was pasted to the logbook and ever since the term “bug”. This is exactly the thing we do today, finding a bug and reporting it in the bug tracker. So basically, the term “bug” got into the world of computers because of an actual bug! And thus, the term “debugging” as well. Before the term “bug”, the concept of bugs i.e., the flaws in a system were referred to as “problem in cards” by Ada Lovelace, the first-ever programmer.
