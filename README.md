@@ -6,6 +6,8 @@ But it became popular and used worldwide when in 1947, Grace Murray, a Harvard u
 
 ## Era's of software testing
 There are five eras when we talk about the evolution of testing.
+.
+
 ![history of test](https://github.com/fahmee-faiza/History-of-Software-Testing/assets/53439873/50503195-54d3-492b-8658-1ffde7fcd6a8)
 
 **Debugging era (1945-1956)**
