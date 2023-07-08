@@ -4,6 +4,12 @@
 Let me share a very interesting story about “bugs”. Do you know why we call flaws in software “bugs”? This term “bug” was originally used by Thomas Alva Edison in the year 1878, while mentioning it in a letter sent to his partner about his machine, the quadruplex telegraph system, he described the flaws as “bugs”.
 But it became popular and used worldwide when in 1947, Grace Murray, a Harvard university scientist working on the Mark II computer, noticed a moth stuck in the relay of the computer, which prevented it from functioning properly. The moth was removed slowly and was pasted to the logbook and ever since the term “bug”. This is exactly the thing we do today, finding a bug and reporting it in the bug tracker. So basically, the term “bug” got into the world of computers because of an actual bug! And thus, the term “debugging” as well. Before the term “bug”, the concept of bugs i.e., the flaws in a system were referred to as “problem in cards” by Ada Lovelace, the first-ever programmer.
 
+**First Bug Report:**
+
+
+![119011193_10220525084091552_941552834303912376_n](https://github.com/fahmee-faiza/History-of-Software-Testing/assets/53439873/ed6573fe-a258-4ebc-9467-e9f052e1ae07)
+
+
 ## Era's of software testing
 There are five eras when we talk about the evolution of testing.
 .
@@ -29,6 +35,10 @@ This era focused on assessing the quality of the software. It involved review, a
 **Prevention era (1988-2000)**
 
 The code was divided into 2, testable code and non-testable code. The main focus was to show that the final product meets the specifications. Testing was performed to avoid requirements, design, and implementation flaws. This era also focused more on identifying new testing techniques.
+
+
+# Tester's Day
+The World Tester’s Day is recognised on the 9th of September every year to mark the discovery of the first ever bug that in 1947.
 
 
 
