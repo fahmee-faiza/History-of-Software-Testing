@@ -8,23 +8,23 @@ But it became popular and used worldwide when in 1947, Grace Murray, a Harvard u
 There are five eras when we talk about the evolution of testing.
 ![history of test](https://github.com/fahmee-faiza/History-of-Software-Testing/assets/53439873/50503195-54d3-492b-8658-1ffde7fcd6a8)
 
-Debugging era (1945-1956)
+**Debugging era (1945-1956)**
 
 This era is in the early 1950s, and the developers focused more on fixing the flaws in the system. It was more of performing corrective measures(debugging) to make the program work as expected, rather than testing the whole system to find bugs. The concept of testing and testers was not established during this time.
 
-Demonstration era (1957-1968)
+**Demonstration era (1957-1968)**
 
 In this period, testing was regarded as a crucial part of the software development life cycle or SDLC, and special emphasis was given to carrying out testing as a separate activity. The main focus was to make sure the final product met the requirements for which it was developed. It was during this era the difference between ‘debugging’ and ‘testing’ was identified.
 
-Destruction era (1979-1982)
+**Destruction era (1979-1982)**
 
 In short, during this era, testing was performed to show the unintended working of a program. The testers perform the test on a program to demonstrate that the program is imperfect, as it was assumed by this way, the probability of finding bugs was higher. To explain better, testers tried performing activities that can cause the program to fail, like entering a text value in a numerical field. This method was a failure as bugs were found persistently one after the other.
 
-Evaluation era (1983-1987)
+**Evaluation era (1983-1987)**
 
 This era focused on assessing the quality of the software. It involved review, analysis, and testing throughout the lifecycle of the software. Testing was performed until bugs were reduced to an acceptable level.
 
-Prevention era (1988-2000)
+**Prevention era (1988-2000)**
 
 The code was divided into 2, testable code and non-testable code. The main focus was to show that the final product meets the specifications. Testing was performed to avoid requirements, design, and implementation flaws. This era also focused more on identifying new testing techniques.
 
